@@ -35,3 +35,35 @@ header{
     background-position: bottom left;
     
 }
+.myself-container{
+    display: flex;
+    gap: 80px;
+    align-items: center;
+    
+}
+.img-profile{
+    margin: 120px 0px 100px 200px;
+    width:400px;
+    
+}
+.failure-title{
+    color: #151414;
+font-size: 50px;
+font-weight: 700;
+margin-right: 450px;
+margin-bottom: 0px;
+
+}
+.failure-desc{
+    color: #444343;
+font-size: 16px;
+font-weight: 400;
+margin-top: 20px;
+margin-right: 322px;
+}
+.list{
+    color:  #444343;
+font-size: 16px;
+font-weight: 400;
+}
+
